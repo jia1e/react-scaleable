@@ -1,6 +1,6 @@
 {
     "name": "react-scaleable",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Scaleable container component",
     "source": "src/index.ts",
     "main": "dist/index.js",
@@ -22,7 +22,7 @@
     ],
     "author": "<Jia1e> zhangjialecn@gmail.com",
     "license": "MIT",
-    "dependencies": {
+    "peerDependencies": {
         "@react-hook/size": "^2.1.2",
         "react": ">=16.8.0",
         "react-use-event-hook": "^0.9.2"
